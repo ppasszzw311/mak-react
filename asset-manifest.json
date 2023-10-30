@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mak-react/static/css/main.073c9b0a.css",
+    "main.js": "/mak-react/static/js/main.62bd6158.js",
+    "static/js/787.536f26bd.chunk.js": "/mak-react/static/js/787.536f26bd.chunk.js",
+    "static/media/logo.svg": "/mak-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mak-react/index.html",
+    "main.073c9b0a.css.map": "/mak-react/static/css/main.073c9b0a.css.map",
+    "main.62bd6158.js.map": "/mak-react/static/js/main.62bd6158.js.map",
+    "787.536f26bd.chunk.js.map": "/mak-react/static/js/787.536f26bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.62bd6158.js"
+  ]
+}
